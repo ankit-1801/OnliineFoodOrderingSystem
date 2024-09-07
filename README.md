@@ -4,6 +4,9 @@ This project is an online food ordering system that provides functionalities for
 
 ## Features:
 
+### Demo Link:
+   Watch the full demo of the project here: [Video Demo](https://drive.google.com/file/d/1dx9VV0dMrjW-sPup65cYUVvlN0-ifc10/view?usp=sharing)
+
 ### Admin Capabilities:
 - **Login:** Admin can securely log in to access the admin panel.
 - **Product Management:** Admin can fetch, add, update, and delete products from the system.
@@ -32,4 +35,4 @@ This project is an online food ordering system that provides functionalities for
 ## How to Run the Project:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ankit-1801/OnliineFoodOrderingSystem.git
